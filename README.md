@@ -26,7 +26,10 @@ repo_proyecto/
 └── .gitignore
 
 ## Cómo ejecutar
+## Cómo ejecutar
 
-Abrir Google Colab y ejecutar:
+1. Abrir Google Colab.
+2. Clonar el repositorio.
+3. Ejecutar el archivo:
 
 python scripts/analisis.py
