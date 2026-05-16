@@ -8,6 +8,7 @@ Escenario B – Análisis de Ventas de una Pequeña Empresa
 
 ## Descripción
 Este proyecto realiza un análisis básico de ventas utilizando Python y Pandas.
+Dataset utilizado: datos simulados de ventas con fecha, producto, cantidad y precio.
 
 Se trabajó con datos simulados de productos, cantidades y precios para calcular:
 
