@@ -16,7 +16,6 @@ Se trabajó con datos simulados de productos, cantidades y precios para calcular
 - Análisis simple de datos
 
 ## Estructura del proyecto
-
 repo_proyecto/
 ├── datos/
 ├── scripts/
@@ -25,7 +24,6 @@ repo_proyecto/
 ├── README.md
 └── .gitignore
 
-## Cómo ejecutar
 ## Cómo ejecutar
 
 1. Abrir Google Colab.
