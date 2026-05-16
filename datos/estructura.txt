@@ -1,1 +1,1 @@
-Estructura inicial creada correctamente
+Dataset utilizado: datos simulados de ventas con fecha, producto, cantidad y precio.
